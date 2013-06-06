@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
-url: http://ynxjy2013.github.io/
+url: http://ynxjy2013.github.io
 author: shangfang
 pygments: true
 
