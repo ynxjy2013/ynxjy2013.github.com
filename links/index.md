@@ -4,9 +4,7 @@ layout: page
 comments: yes
 ---
 
-# 个人
+# 排序不分先后：
 
-姓名拼音排序：
-
-- [陈钢](http://www.gossipcoder.com/) 中南大学，useR，生物信息学，译者
+- [上海信访接待](http://www.shanghai.gov.cn/shanghai/node2314/node2319/node10908/index.html) 
 
