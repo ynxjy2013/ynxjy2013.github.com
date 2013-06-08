@@ -70,5 +70,5 @@ comments: yes
 
 附图四 业主签名
 
-![](http://i.imgur.com/5beyvzL.jpg)
+![](http://i.imgur.com/4fNqD5t.png)
 
