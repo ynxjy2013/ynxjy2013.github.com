@@ -25,7 +25,6 @@ jiading <jiading@jiading.gov.cn>
  * 由于领导信箱限2000字，可以参考以下我缩短的版本：
 
 ```
-
 市长，您好：
 
 （这里可以看图片 http://tinyurl.com/ownrxg6 ）
@@ -80,22 +79,4 @@ jiading <jiading@jiading.gov.cn>
 ![]（http://i.imgur.com/65TzAIr.jpg）
 附图四 业主签名
 ![]（http://i.imgur.com/kbntnyu.png）
-
-```
-
-Task Lists
- - [ ] a task list item
- - [ ] list syntax required
- - [ ] normal **formatting**,
-       @mentions, #1234 refs
- - [ ] incomplete
- - [x] completed
-
-Syntax highlighting with GFM
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
 ```
