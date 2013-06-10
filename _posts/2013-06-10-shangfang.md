@@ -11,13 +11,10 @@ tags: [策略]
 地址: 上海市黄浦区人民大道200号 上海市人民政府 市长韩正 收  邮政编码:200003
 
 ## 电子邮件
- *收集的email地址：
+ * 收集的email地址：
 
 ```
-jiaoliu01 <jiaoliu01@shanghai.gov.cn>; jiaoliu02 <jiaoliu02@shanghai.gov.cn>; jiaoliu04 <jiaoliu04@shanghai.gov.cn>; jiaoliu03 <jiaoliu03@shanghai.gov.cn>; jiaoliu05 <jiaoliu05@shanghai.gov.cn>; jiaoliu06 <jiaoliu06@shanghai.gov.cn>; 
-shuji <shuji@shjjjc.shanghai.gov.cn>; 
-juzhang <juzhang@shjjjc.shanghai.gov.cn>; 
-jiading <jiading@jiading.gov.cn> 
+jiaoliu01 <jiaoliu01@shanghai.gov.cn>; jiaoliu02 <jiaoliu02@shanghai.gov.cn>; jiaoliu04 <jiaoliu04@shanghai.gov.cn>; jiaoliu03 <jiaoliu03@shanghai.gov.cn>; jiaoliu05 <jiaoliu05@shanghai.gov.cn>; jiaoliu06 <jiaoliu06@shanghai.gov.cn>; shuji <shuji@shjjjc.shanghai.gov.cn>; juzhang <juzhang@shjjjc.shanghai.gov.cn>; jiading <jiading@jiading.gov.cn> 
 ```
 
 ## 网上市领导信箱
@@ -26,8 +23,8 @@ jiading <jiading@jiading.gov.cn>
 
  * 由于领导信箱限2000字，可以参考以下我缩短的版本：
 
-```
 
+```bash
 市长，您好：
 
 （这里可以看图片 http://tinyurl.com/ownrxg6 ）
@@ -81,6 +78,6 @@ jiading <jiading@jiading.gov.cn>
 
 ![]（http://i.imgur.com/65TzAIr.jpg）
 附图四 业主签名
-![]（http://i.imgur.com/kbntnyu.png）
 
+![]（http://i.imgur.com/kbntnyu.png）
 ```
