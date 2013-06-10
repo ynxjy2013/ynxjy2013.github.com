@@ -23,8 +23,7 @@ jiaoliu01 <jiaoliu01@shanghai.gov.cn>; jiaoliu02 <jiaoliu02@shanghai.gov.cn>; ji
 
  * 由于领导信箱限2000字，可以参考以下我缩短的版本：
 
-
-```bash
+```
 市长，您好：
 
 （这里可以看图片 http://tinyurl.com/ownrxg6 ）
