@@ -90,3 +90,12 @@ Task Lists
        @mentions, #1234 refs
  - [ ] incomplete
  - [x] completed
+
+Syntax highlighting with GFM
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
