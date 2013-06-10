@@ -22,6 +22,7 @@ jiading <jiading@jiading.gov.cn>
  * [韩正](http://wsxf.sh.gov.cn/swldxxnew/resume_HZ.aspx)
 
  * 由于领导信箱限2000字，可以参考以下我缩短的版本：
+
 ```
 市长，您好：
 
