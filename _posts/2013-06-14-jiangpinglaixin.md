@@ -18,5 +18,5 @@ tags: [网上信访]
 
 国家信访办上的时间咋是这个样子呢？看来网站好久没人维护了。
 
-![](http://i.imgur.com/gSoBj27.jpg)
+![](http://i.imgur.com/gvbCRbz.jpg)
 
