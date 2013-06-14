@@ -33,4 +33,8 @@ jiaoliu01 <jiaoliu01@shanghai.gov.cn>; jiaoliu02 <jiaoliu02@shanghai.gov.cn>; ji
  * [嘉定相关投诉举报电话地址](http://www.shanghai.gov.cn/shanghai/node2314/node2320/node2671/node3927/)
  * [政府部门监督投诉](http://www.shanghai.gov.cn/shanghai/node2314/node2320/)
 
+## 网上信访地址
+ * [国家信访办网上信访](http://ts.gjxfj.gov.cn/index.pfv)  每天限一次
+ * [上海网上信访](http://wsxf.sh.gov.cn/szzcnew/mailbox.aspx?type=11) 默认是杨雄市长
+
 
