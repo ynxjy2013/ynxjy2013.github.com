@@ -22,6 +22,7 @@ tags: [策略]
 
 ```
 qzxx@npc.gov.cn 人大群众举报信箱
+jiancs@mail.gjxfj.gov.cn 受理有关工作机构和人员违反《信访条例》及信访工作纪律行为的举报 
 
 jiaoliu01 <jiaoliu01@shanghai.gov.cn>; jiaoliu02 <jiaoliu02@shanghai.gov.cn>; jiaoliu04 <jiaoliu04@shanghai.gov.cn>; jiaoliu03 <jiaoliu03@shanghai.gov.cn>; jiaoliu05 <jiaoliu05@shanghai.gov.cn>; jiaoliu06 <jiaoliu06@shanghai.gov.cn>; shuji <shuji@shjjjc.shanghai.gov.cn>; juzhang <juzhang@shjjjc.shanghai.gov.cn>; jiading <jiading@jiading.gov.cn> ;jjts@jiading.gov.cn;fgw02@shanghai.gov.cn;jjw02@shanghai.gov.cn;wjw02@shanghai.gov.cn;jwxf@shmec.gov.cn;kw02@shanghai.gov.cn;mzw02@shanghai.gov.cn;gaj02@shanghai.gov.cn;jcw02@shanghai.gov.cn;jdts@shmzj.gov.cn;sfj02@shanghai.gov.cn;csj02@shanghai.gov.cn;rsj02@shanghai.gov.cn;jsw02@shanghai.gov.cn;jw@shanghai.gov.cn;hbj02@shanghai.gov.cn;ghj02@shanghai.gov.cn;wgj02@shanghai.gov.cn;wsj02@shanghai.gov.cn;swj02@shanghai.gov.cn;rkw02@shanghai.gov.cn;sjj02@shanghai.gov.cn;wsb02@shanghai.gov.cn;gzw02@shanghai.gov.cn;gsj02@shanghai.gov.cn;jiwei1@shzj.gov.cn;jizd@mail.stats-sh.gov.cn;cbj02@shanghai.gov.cn;lhj02@shanghai.gov.cn;fdj02@shanghai.gov.cn;jtj02@shanghai.gov.cn;ajj02@shanghai.gov.cn;jdq02@shanghai.gov.cn
 ```
