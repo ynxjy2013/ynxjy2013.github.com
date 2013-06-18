@@ -66,7 +66,4 @@ comments: yes
 ![](http://i.imgur.com/65TzAIr.jpg)
 
 
-附图四 业主签名
-
-![](http://i.imgur.com/kbntnyu.png)
 
